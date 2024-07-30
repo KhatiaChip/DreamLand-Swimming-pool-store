@@ -10,10 +10,7 @@ My main goal was to create unique and engaiging swimming pool website , which wi
 # Screenshots
 
 <img src="img-1.png">
-<img src="img-2.png">
-<img src="img-3.png">
-<img src="img-4.png">
 
 
 # Deployment 
- <a href="https://khatiachip.github.io/Swipe-project/"> <strong> Review project link here </strong> </a>
+ <a href=" https://khatiachip.github.io/DreamLand-Swimming-pool-store/"> <strong> Review project link here </strong> </a>
