@@ -13,4 +13,4 @@ My main goal was to create unique and engaiging swimming pool website , which wi
 
 
 # Deployment 
- <a href=" https://khatiachip.github.io/DreamLand-Swimming-pool-store/"> <strong> Review project link here </strong> </a>
+ <a href="https://khatiachip.github.io/DreamLand-Swimming-pool-store/"> <strong> Review project link here </strong> </a>
