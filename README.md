@@ -9,10 +9,10 @@ My main goal was to create unique and engaiging swimming pool website , which wi
 
 # Screenshots
 
-<img src="screenshots/img-1.png">
-<img src="screenshots/img-2.png">
-<img src="screenshots/img-3.png">
-<img src="screenshots/img-4.png">
+<img src="img-1.png">
+<img src="img-2.png">
+<img src="img-3.png">
+<img src="img-4.png">
 
 
 # Deployment 
